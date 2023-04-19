@@ -1,8 +1,10 @@
 # AI-Fridge Prototype
 
 ## Project Overview
-For this project, 
+In this project, a recommender system that uses object detection to capture the contents of the fridge and provides a list of meals to prepare is developed.
 
 ## Installation
 
-To set up the project, there are a number of libraries that need to be downloaded and installed first.
+To set up the project, there are a number of libraries and datasets that need to be downloaded and installed first.
+
+First, run the "Dependencies" code blocks, followed by the "Download custom dataset". This will ensure that all the necessary files for this project are downloaded.
